@@ -1,0 +1,12 @@
+Titlul Documentului: Exemplu de Fișier Text
+
+Introducere:
+Aceasta este o introducere simplă în conținutul exemplu de fișier text. Scopul acestui document este de a oferi un model de bază pentru crearea de fișiere text.
+
+Secțiunea 1: Elemente de Listă
+- Element 1
+- Element 2
+- Element 3
+
+Concluzie:
+Aceasta este concluzia documentului. Acest exemplu de fișier text ilustrează structura unui document simplu, inclusiv introducerea, o listă de elemente și o concluzie.
